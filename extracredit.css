@@ -1,3 +1,19 @@
+h2 {
+  color: #788D3B;
+}
+
+h1{
+  color: #D8E8B9;
+}
+
 body {
-  color: blue;
+  background-color: #523E33;
+}
+
+h3 {
+  color: white;
+}
+
+p {
+  color: white;
 }
