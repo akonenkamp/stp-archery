@@ -18,6 +18,12 @@ p {
   color: white;
 }
 
-button {
-  background-color: 788D3B;
+.button1 {
+  background-color: green;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
 }
