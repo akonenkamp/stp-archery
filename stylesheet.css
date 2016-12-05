@@ -19,8 +19,10 @@ footer {
 
 img.logo {
     display: block;
+    padding-top: 100px;
     margin-left: auto;
     margin-right: auto 
+    
 }
 
 .nondiscrem {
@@ -30,4 +32,13 @@ img.logo {
   line-height: normal;
   text-align: center;
   margin-top: 75px;
+}
+
+.motto {
+  text-align: center;
+  padding-bottom: 45px;
+}
+
+.location {
+  margin-left: 20px;
 }
